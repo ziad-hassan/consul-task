@@ -1,0 +1,6 @@
+kubecostToken: "aGVsbUBrdWJlY29zdC5jb20=xm343yadf98"
+networkCosts:
+  enabled: true
+prometheus:
+  alertmanager:
+    enabled: false
